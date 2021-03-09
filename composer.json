@@ -10,7 +10,7 @@
         "API"
     ],
     "require": {
-        "php": ">=5.4,<8.0-DEV",
+        "php": ">=7.1|>=8.0",
         "webonyx/graphql-php": ">=0.7.0"
     },
     "require-dev": {
